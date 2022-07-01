@@ -1,4 +1,4 @@
-package chap19;
+package chapter02.ch19;
 
 public class CarFactory {
 

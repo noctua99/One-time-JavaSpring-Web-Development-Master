@@ -1,6 +1,4 @@
-package chap19;
-
-import java.util.ArrayList;
+package chapter02.ch19;
 
 public class CarFactoryTest {
 

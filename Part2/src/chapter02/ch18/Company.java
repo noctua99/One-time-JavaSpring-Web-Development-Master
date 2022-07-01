@@ -1,4 +1,4 @@
-package chap18;
+package chapter02.ch18;
 
 public class Company {
 

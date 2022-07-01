@@ -1,4 +1,4 @@
-package chap15;
+package chapter02.ch15;
 
 public class TakeTaxiTest {
     public static void main(String[] args) {
